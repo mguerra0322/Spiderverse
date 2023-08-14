@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55562007985",
+    "project_id": "spiderverso-ff578",
+    "storage_bucket": "spiderverso-ff578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55562007985:android:71ec3718f82667495fb990",
+        "android_client_info": {
+          "package_name": "com.example.sqliteproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55562007985-hc76lvs2o1uth0eb4rrkdi2sgkbt531o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFcA43AAR2M1sVlFY2jl4I27sLCO5kxv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55562007985-hc76lvs2o1uth0eb4rrkdi2sgkbt531o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
